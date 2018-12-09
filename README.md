@@ -16,7 +16,7 @@ Explaining deployment here.
 
 ## How to Contribute
 
-Adding contribution introduction. 
+Please fork this repository and then issue pull requests for review.
 
 ## Adding another section 
 
