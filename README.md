@@ -19,3 +19,7 @@ Explaining deployment here.
 Adding contribution introduction. 
 
 ## Adding another section 
+
+### Copyright
+
+2014 Git.Training
