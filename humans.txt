@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Lee brianlee1994@gmail.com @twitter
 
 # THANKS
 
